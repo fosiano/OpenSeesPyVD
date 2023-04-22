@@ -1,3 +1,3 @@
 # OpenSeesPyVD
-# Viscous Dampers with OpenSeesPy
-# 
+Viscous Dampers with OpenSeesPy
+
